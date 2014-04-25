@@ -1,4 +1,4 @@
-rails-template
+Rails Templates
 ==============
 
-My custom Rails template
+These are my custom Rails templates, feel free to use them.
